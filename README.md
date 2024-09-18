@@ -16,9 +16,6 @@ The Health Metrics Dashboard is a React-based application that allows users to m
 ## Technologies Used
 
 - **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **APIs**: Axios for HTTP requests
 
 ## Installation
 
@@ -30,21 +27,12 @@ The Health Metrics Dashboard is a React-based application that allows users to m
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/VedantMate/HealthCareDashboard.git
+git clone https://github.com/VedantMate/frontend.git
 
 cd repository
 
 npm install
 
-npm start
-```
-
-### Backend Setup
-- **Ensure you have the backend server running. Navigate to the backend directory and start the server:**
-
-```bash
-cd backend
-npm install
 npm start
 ```
 
